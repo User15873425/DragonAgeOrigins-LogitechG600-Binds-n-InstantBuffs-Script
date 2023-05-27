@@ -1,5 +1,5 @@
-The lua script allows to bind DAO additional quickbar buttons that the BioWare developers did not provide for to a Logitech G600 mouse.
-<brThis is a xml profile for Logitech Gaming Software. Haven't tried G Hub./>
+The lua script allows to bind DAO additional quickbar buttons that the BioWare developers did not provide for to a Logitech G600 mouse.  
+This is a xml profile for Logitech Gaming Software. Haven't tried G Hub.
 
 The coordinates calculation was carried out for the mod [FtG Quickbar - Center and Multi Rows](https://www.nexusmods.com/dragonage/mods/2784)
 with Configuration Utility for FtG Quickbar v1.0 and screen resolution 1920x1080
