@@ -1,5 +1,5 @@
 The lua script allows to bind Dragon Age Origins additional quickbar buttons that the BioWare developers did not provide for to a Logitech G600 mouse.  
-This script is copy-pasted in the Logitech Gaming Software with Automatic Game Detection enabled into DAO game profile in the Scripts dropdown menu. Further, it is stored in a LGS program regular XML profile. Haven't tried G Hub.
+This script is copy-pasted in the Logitech Gaming Software with Automatic Game Detection enabled into DAO game profile in the Scripts dropdown menu. Further, it is stored in LGS program regular XML profile. Haven't tried G Hub.
 
 The coordinates calculation was carried out for the mod [FtG Quickbar - Center and Multi Rows](https://www.nexusmods.com/dragonage/mods/2784)
 with [Configuration Utility for FtG Quickbar v1.0](https://www.nexusmods.com/dragonage/mods/2784?tab=files) and screen resolution 1920x1080  
