@@ -13,10 +13,11 @@ with [Configuration Utility for FtG Quickbar v1.0](https://www.nexusmods.com/dra
 &emsp;&emsp;• Always expanded
 
 For extra mouse binds G9-G17, the slots F9-F17 of the top panel of the quickbar are used above the in-game binds 1-E.  
+
+Person's stances and states work like a regular LB click on the quickbar and return the pointer to its previous position. Actions with interaction with a target as a mouseover LB click on the target then click on the quickbar and return the pointer to its previous position. That is, the action is confirmed automatically, unlike the standard behavior of skills. In the case of Stealing, on the contrary, first auto click skill, then auto confirmation of the target by mouseover.
+
 On the G7 mouse button the highlighting of the names of the environment is implemented ("Tab" toggled).  
 On the G8 button - autorun ("W" toggled).  
-
-Stances work like a regular LB click on the quickbar and return the pointer to its previous position. Actions with interaction with a target as a mouseover LB click on the target then click on the quickbar and return the pointer to its previous position. That is, the action is confirmed automatically, unlike the standard behavior of skills. In the case of Stealing, on the contrary, first auto click skill, then auto confirmation of the target by mouseover.
 
 In addition mouse button G18 instant buffs rogue poisons from top panel F1-F5 to bottom panel N1-N5  
 and G20 button buffs all previous and rarer poisons F1-F8, N1-N8.
