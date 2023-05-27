@@ -7,7 +7,7 @@ with [Configuration Utility for FtG Quickbar v1.0](https://www.nexusmods.com/dra
 
 &emsp;Quickbar  
 &emsp;&emsp;Maximum quickbar rows: 2  
-&emsp;&emsp;• Align: center&emsp;|&emsp;Ragged row align: Center (left bias)  
+&emsp;&emsp;• Align center&emsp;|&emsp;Ragged row align: Center (left bias)  
 &emsp;&emsp;✓ Wrap quickslots: Right&emsp;|&emsp;8 spaces maximum
 
 &emsp;Effect bar  
