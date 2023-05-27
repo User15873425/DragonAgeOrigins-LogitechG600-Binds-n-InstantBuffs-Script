@@ -2,7 +2,7 @@ The lua script allows to bind DAO additional quickbar buttons that the BioWare d
 This is a xml profile for Logitech Gaming Software. Haven't tried G Hub.
 
 The coordinates calculation was carried out for the mod [FtG Quickbar - Center and Multi Rows](https://www.nexusmods.com/dragonage/mods/2784)
-with (Configuration Utility for FtG Quickbar v1.0](https://www.nexusmods.com/dragonage/mods/2784?tab=files) and screen resolution 1920x1080  
+with [Configuration Utility for FtG Quickbar v1.0](https://www.nexusmods.com/dragonage/mods/2784?tab=files) and screen resolution 1920x1080  
 &emsp;Maximum quickbar rows: 2  
 &emsp;Align: center  
 &emsp;Ragged row align: Center (left bias)  
