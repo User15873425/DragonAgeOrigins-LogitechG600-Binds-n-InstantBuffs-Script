@@ -3,10 +3,10 @@ This is a xml profile for Logitech Gaming Software. Haven't tried G Hub.
 
 The coordinates calculation was carried out for the mod [FtG Quickbar - Center and Multi Rows](https://www.nexusmods.com/dragonage/mods/2784)
 with Configuration Utility for FtG Quickbar v1.0 and screen resolution 1920x1080  
-  Maximum quickbar rows: 2  
-  Align: center  
-  Ragged row align: Center (left bias)  
-  Wrap quickslots: Right / 8 spaces maximum  
+&emsp;Maximum quickbar rows: 2  
+&emsp;Align: center  
+&emsp;Ragged row align: Center (left bias)  
+&emsp;Wrap quickslots: Right / 8 spaces maximum  
 
 For extra binds, the slots of the top panel of the quickbar are used above the in-game binds 1-E.
 In addition mouse button G18 instant buffs poisons from top panel F1-F5 to bottom panel N1-N5
