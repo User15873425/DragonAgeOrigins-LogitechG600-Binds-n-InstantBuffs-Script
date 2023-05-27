@@ -21,7 +21,7 @@ Stances work like a regular LB click on the quickbar and return the pointer to i
 In addition mouse button G18 instant buffs rogue poisons from top panel F1-F5 to bottom panel N1-N5  
 and G20 button buffs all previous and rarer poisons F1-F8, N1-N8.
 
-The code can be rewritten for other binds and coordinates in text redactor like Notepad++ or right in LGS Profile Scripting.
+The code can be rewritten for other binds F1-F25, N1-N25 and coordinates in text redactor like Notepad++ or right in LGS Profile Scripting.
 
 ![alt text](https://github.com/User15873425/DragonAgeOrigins-LogitechG600-Binds-n-InstantBuffs-Script/blob/main/Screenshot20230527051516907.jpg?raw=true)
 ![alt text](https://github.com/User15873425/DragonAgeOrigins-LogitechG600-Binds-n-InstantBuffs-Script/blob/main/Screenshot20230527051518958.jpg?raw=true)
