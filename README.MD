@@ -12,7 +12,9 @@ with [Configuration Utility for FtG Quickbar v1.0](https://www.nexusmods.com/dra
 &emsp;Effect bar  
 &emsp;&emsp;• Always expanded
 
-For extra binds, the slots of the top panel of the quickbar are used above the in-game binds 1-E.
+For extra binds, the slots of the top panel of the quickbar are used above the in-game binds 1-E.  
+On the G7 button the highlighting of the names of the environment is implemented ("Tab" toggled).  
+On the button G8 - autorun ("W" toggled).  
 In addition mouse button G18 instant buffs rogue poisons from top panel F1-F5 to bottom panel N1-N5
 and button G20 button buffs all previous and rarer poisons F1-F8, N1-N8.
 
