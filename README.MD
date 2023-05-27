@@ -4,13 +4,13 @@ This is a xml profile for Logitech Gaming Software. Haven't tried G Hub.
 The coordinates calculation was carried out for the mod [FtG Quickbar - Center and Multi Rows](https://www.nexusmods.com/dragonage/mods/2784)
 with [Configuration Utility for FtG Quickbar v1.0](https://www.nexusmods.com/dragonage/mods/2784?tab=files) and screen resolution 1920x1080  
 
-&emsp;Quickbar
+&emsp;Quickbar  
 &emsp;&emsp;Maximum quickbar rows: 2  
 &emsp;&emsp;• Align: center  
 &emsp;&emsp;Ragged row align: Center (left bias)  
-&emsp;&emsp;☑ Wrap quickslots: [Right] [8 spaces maximum]
+&emsp;&emsp;✔ Wrap quickslots: [Right] [8 spaces maximum]
 
-&emsp;Effect bar
+&emsp;Effect bar  
 &emsp;&emsp;• Always expanded
 
 For extra binds, the slots of the top panel of the quickbar are used above the in-game binds 1-E.
